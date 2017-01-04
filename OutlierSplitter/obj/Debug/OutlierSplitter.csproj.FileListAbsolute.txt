@@ -1,0 +1,12 @@
+c:\users\shane\documents\visual studio 2015\Projects\OutlierSplitter\OutlierSplitter\bin\Debug\OutlierSplitter.exe.config
+c:\users\shane\documents\visual studio 2015\Projects\OutlierSplitter\OutlierSplitter\bin\Debug\OutlierSplitter.exe
+c:\users\shane\documents\visual studio 2015\Projects\OutlierSplitter\OutlierSplitter\bin\Debug\OutlierSplitter.pdb
+c:\users\shane\documents\visual studio 2015\Projects\OutlierSplitter\OutlierSplitter\obj\Debug\OutlierSplitter.csprojResolveAssemblyReference.cache
+c:\users\shane\documents\visual studio 2015\Projects\OutlierSplitter\OutlierSplitter\obj\Debug\OutlierSplitter.exe
+c:\users\shane\documents\visual studio 2015\Projects\OutlierSplitter\OutlierSplitter\obj\Debug\OutlierSplitter.pdb
+C:\SourceCode\OutlierSplitter\OutlierSplitter\bin\Debug\OutlierSplitter.exe.config
+C:\SourceCode\OutlierSplitter\OutlierSplitter\obj\Debug\OutlierSplitter.exe
+C:\SourceCode\OutlierSplitter\OutlierSplitter\obj\Debug\OutlierSplitter.pdb
+C:\SourceCode\OutlierSplitter\OutlierSplitter\bin\Debug\OutlierSplitter.exe
+C:\SourceCode\OutlierSplitter\OutlierSplitter\bin\Debug\OutlierSplitter.pdb
+C:\SourceCode\OutlierSplitter\OutlierSplitter\obj\Debug\OutlierSplitter.csprojResolveAssemblyReference.cache

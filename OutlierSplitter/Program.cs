@@ -80,7 +80,7 @@ namespace OutlierSplitter
             avg = values.Average();
             stddev = StandardDeviation(values);
             double threshold = Convert.ToDouble(args[2]);
-
+            
             int x = 0;
             foreach (double value in values)
             {
@@ -124,11 +124,10 @@ namespace OutlierSplitter
 
             foreach (double value in doubleList)
             {
-                sumOfDerivation += (value) * (value);
+                sumOfDerivation += Math.Pow(value - average,2);
             }
 
-            double sumOfDerivationAverage = sumOfDerivation / (doubleList.Count - 1);
-            return Math.Sqrt(sumOfDerivationAverage - (average * average));
+           return Math.Sqrt(sumOfDerivation / (doubleList.Count - 1));
         }
 
         // Graceful exit on command line and in debugger
